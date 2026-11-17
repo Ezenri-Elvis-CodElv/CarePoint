@@ -1,0 +1,5 @@
+.DS_Store
+.cptest/
+*.log
+.vscode/
+.idea/
